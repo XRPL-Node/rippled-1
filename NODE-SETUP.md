@@ -28,7 +28,6 @@ Your node will launch immediately and begin syncing with the network.<br>
 **Storage:** 10 GB of free disk space<br>
 
 
-
 # Community
 Thanks to all contributors:
 
