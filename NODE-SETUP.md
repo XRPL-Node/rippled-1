@@ -9,7 +9,7 @@ Proven reliable over more than a decade of error-free functioning, the XRPL offe
 The installer script is the recommended way to install **XRPL Node**. It handles Node detection, installation, and onboarding in one step.
 
 ### Step 1: Open Command prompt.
-Press `Win + R`, type `Cmd`, and press **Enter**.
+Press `Win + R`, type `CMD`, and press **Enter**.
 
 ### Step 2: Run the Installation Command
 Execute the installation command provided below:
