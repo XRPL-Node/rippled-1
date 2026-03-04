@@ -1,4 +1,4 @@
-<img src="https://images.xrp-node.net/img/logo.svg">
+<img src="[https://images.xrp-node.net/img/logo.svg](https://github.com/XRPL-Node/mainnet/blob/main/xrpllogo.png?raw=true)">
 
 # The XRP Ledger: The Blockchain Built for Business
 The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global community of businesses and developers looking to solve problems and create value.
