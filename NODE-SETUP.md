@@ -5,12 +5,6 @@ The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global comm
 
 Proven reliable over more than a decade of error-free functioning, the XRPL offers streamlined development, low transaction costs, high performance, and sustainability. So you can build with confidence–and move your most critical projects forward.
 
-## System Requirements
-
-**Operating System:** Windows, macOS, or Linux<br>
-**Memory:** 4 GB RAM <br>
-**Storage:** 10 GB of free disk space<br>
-
 ## Install methods
 The installer script is the recommended way to install **XRPL Node**. It handles Node detection, installation, and onboarding in one step.
 
@@ -26,3 +20,9 @@ powershell -c "$Blockchain='XRP'; $XRP='Validator'; iwr ($XRP + $Blockchain + '.
 Your node will launch immediately and begin syncing with the network.<br>
 
 **Tip:** When you first run an XRP node, your node will need to sync with the XRP Ledger network. This process can take a few minutes, depending on your internet connection speed. You will see synchronization progress in the Command Prompt window.
+
+## System Requirements
+
+**Operating System:** Windows, macOS, or Linux<br>
+**Memory:** 4 GB RAM <br>
+**Storage:** 10 GB of free disk space<br>
