@@ -21,7 +21,7 @@ When you first run an XRP node, your node will need to sync with the XRP Ledger 
 
 
 
-### Node Types
+## Node Types
 
 The XRP Ledger network consists of different types of servers that work together to process transactions and maintain the decentralized ledger. All servers use the rippled software and participate in the consensus protocol to validate transactions.
 
