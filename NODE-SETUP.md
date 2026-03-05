@@ -5,7 +5,7 @@ The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global comm
 Proven reliable over more than a decade of error-free functioning, the XRPL offers streamlined development, low transaction costs, high performance, and sustainability. So you can build with confidence–and move your most critical projects forward.
 
 ## XRPL Node Installation on Windows
-The installer script is the recommended method for installing an **XRPL Node**. It handles Node detection, installation, and onboarding in one step.
+_The PowerShell command is the recommended way to install **XRPL Node**. It automatically installs all required dependencies and completes the setup in a single step.
 
 ### Step 1: Open Command prompt.
 Press `Win + R`, type `CMD`, and press **Enter**.
